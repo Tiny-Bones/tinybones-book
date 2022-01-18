@@ -6,7 +6,7 @@ We hope that this year will rhyme with prosperity and health for all of you. On 
 
 To reach our goal, we have been joined by two new members. Bringing expertise to development and assets creation: Yza & Adpaar.
 
-            Yza            |          Adpaar 
+Yza           |  Adpaar 
 :-------------------------:|:-------------------------:
 ![](https://res.cloudinary.com/nftrade/image/upload/w_500,c_scale/v1633886367/evm_43114_0x4a8e6a9b93e55af71882f3afaa10141715ce5fd2_1728.png)  |  ![](https://res.cloudinary.com/nftrade/image/upload/w_500,c_scale/v1633887397/evm_43114_0x4a8e6a9b93e55af71882f3afaa10141715ce5fd2_126.png)
 
@@ -16,9 +16,11 @@ Adpaar is a junior front end developer. He used to be a marketing guy and switch
   
 As usual, we are counting on the community to welcome them warmly!
 
-![](https://www.youtube.com/watch?v=JSssw4iJv8g)
+#
 
-> _It seems we broke Twitter with this leak (;_
+[![Alt text](https://cdn.discordapp.com/attachments/330697957135482880/933083127688093746/ALPHA1.png)](https://www.youtube.com/watch?v=JSssw4iJv8g)
+
+> _It seems we broke Twitter with this leak, click and check it out!_
 
 ## State of development
 
@@ -31,9 +33,11 @@ The real challenge for now resides in defining the whole multiplayer mechanics, 
 This process introduces a lot of new variables to deal with.  
 But as always, nothing is impossible, and long story short, we’ve already started!
 
-![](https://www.youtube.com/watch?v=j9Fnc03vnZQ)
+#
 
-> _First multiplayer tests_
+[![Alt text](https://cdn.discordapp.com/attachments/330697957135482880/933083128183025694/ALPHA2.png)](https://www.youtube.com/watch?v=j9Fnc03vnZQ)
+
+> _First multiplayer tests, click and check it out!_
 
 ## Avalanche Summit
 Like some of you, we’ll be in the alleys of Avalanche Summit, taking place in Barcelona from 22 to 27 March. We hope to meet our faithful broners to discuss Gravetown’s future together (along with drinking Sangria of course).
